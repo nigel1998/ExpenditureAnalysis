@@ -1,0 +1,24 @@
+tr td {
+    padding: auto;
+    margin: auto;
+}
+
+table {
+    border-collapse: collapse;
+    padding: 0px;
+    margin: 0px;
+}
+
+h2 {
+    text-align: center;
+    background:#C3C3C3;
+    color: #707070;
+    margin: 0px;
+    padding: 0px;
+}
+
+div {
+    margin: 0px;
+    padding: 0px;
+    
+}
